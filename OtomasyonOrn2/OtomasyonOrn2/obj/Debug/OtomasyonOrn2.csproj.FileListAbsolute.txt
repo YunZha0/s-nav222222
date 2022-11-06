@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\bin\Debug\OtomasyonOrn2.exe.config
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\bin\Debug\OtomasyonOrn2.exe
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\bin\Debug\OtomasyonOrn2.pdb
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\obj\Debug\OtomasyonOrn2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\obj\Debug\OtomasyonOrn2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\obj\Debug\OtomasyonOrn2.Form1.resources
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\obj\Debug\OtomasyonOrn2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\obj\Debug\OtomasyonOrn2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\obj\Debug\OtomasyonOrn2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\obj\Debug\OtomasyonOrn2.exe
+C:\Users\ASUS\Desktop\SinavaHazirlik\OtomasyonOrn2\OtomasyonOrn2\obj\Debug\OtomasyonOrn2.pdb
